@@ -3,6 +3,8 @@ Bloons on Gdevelop
 ## Link to Game
 https://bearofbusines.github.io/Bloons-on-Gdevelop/
 <br />
+## Images
+<br />
 <img src="./bloon.png" alt="Bloons" width="400"/>
 <br />
 ## How to play
