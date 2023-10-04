@@ -1,7 +1,7 @@
 # Bloons-on-Gdevelop
 Bloons on Gdevelop
 ## Link to Game
-https://bearofbusines.me/Bloons-on-Gdevelop/
+[https://bearofbusines.me/Bloons-on-Gdevelop/](https://bearofbusines.github.io/Bloons-on-Gdevelop/)
 <br />
 ## Images
 <br />
