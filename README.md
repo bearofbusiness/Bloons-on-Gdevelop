@@ -7,7 +7,9 @@ Bloons on Gdevelop
 <br />
 <img src="./bloon.png" alt="Bloons" width="400"/>
 <br />
-## How to play
+<br />
+# How to play 
+<br />
 There are two modes easy and hard the former has 25 lives and the latter has 1 life.
 <br />
 <br />
