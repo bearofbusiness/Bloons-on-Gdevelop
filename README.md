@@ -1,14 +1,12 @@
 # Bloons-on-Gdevelop
 Bloons on Gdevelop
 ## Link to Game
-[https://bearofbusines.me/Bloons-on-Gdevelop/](https://bearofbusiness.github.io/Bloons-on-Gdevelop/)
+[https://bearofbusiness.github.io/Bloons-on-Gdevelop/](https://bearofbusiness.github.io/Bloons-on-Gdevelop/)
 <br />
 ## Images
 <br />
 <img src="./bloon.png" alt="Bloons" width="400"/>
-<br />
-<br />
-# How to play 
+<h2> How to play </h2>
 <br />
 There are two modes easy and hard the former has 25 lives and the latter has 1 life.
 <br />
